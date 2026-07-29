@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{background:#0A0A0F;color:white}
+.glass{background:rgba(21,21,31,0.8);border:1px solid #1F1F2B}
